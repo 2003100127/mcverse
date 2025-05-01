@@ -8,7 +8,7 @@ We strongly suggest installing our software package cloned from its GitHub repos
 
 We can use this pipeline to explore whether merged UMIs originate from the same roots. Specifically, it shows the results in **Supplementary Figure 4**.
 
-Please download the data from the mcverse repository. Then, please decompress it and specify where it is located under attribute `work_dir` in the `params.yaml` file which has the following form.
+Please download the data from [here](https://github.com/2003100127/mcverse/releases/download/mclumi-data/mclumi-data.zip). Then, please decompress it and specify where it is located under attribute `work_dir` in the `params.yaml` file which has the following form.
 
 ```{code} python
 work_dir: path/to/mclumi-data/
