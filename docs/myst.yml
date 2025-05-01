@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 19e4ebea-2c8e-463f-8ed7-4205ee85ac0e
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/2003100127/mcverse
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: img/mcverse-logo.jpg
+    logo: img/mcverse-logo.jpg
+    twitter: https://x.com/Jianfeng_Sunny
+    hide_toc: true
+    outline_maxdepth: 2
+  nav:
+    - title: Home
+      url: /index
+    - title: About
+      children:
+        - title: Developer
+          url: /developer
+    - title: Reproducibility
+      children:
+        - title: UMIche
+          url: /umiche
