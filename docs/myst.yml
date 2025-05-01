@@ -15,14 +15,25 @@ site:
     twitter: https://x.com/Jianfeng_Sunny
     hide_toc: true
     outline_maxdepth: 2
+#  nav:
+#    - title: Home
+#      url: /index
+#    - title: About
+#      children:
+#        - title: Developer
+#          url: /developer
+#    - title: Reproducibility
+#      children:
+#        - title: UMIche
+#          url: /umiche
   nav:
     - title: Home
-      url: /index
+      url: /mcverse/index
     - title: About
       children:
         - title: Developer
-          url: /developer
+          url: /mcverse/developer
     - title: Reproducibility
       children:
         - title: UMIche
-          url: /umiche
+          url: /mcverse/umiche
