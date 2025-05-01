@@ -1,5 +1,6 @@
 import umiche as uc
 
+
 graph_adj_umitools = {
     'A': ['B', 'C', 'D'],
     'B': ['A', 'C'],
