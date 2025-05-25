@@ -1,4 +1,4 @@
-# UMIche
+# UMI trajectory
 
 ## Installation
 
@@ -10,7 +10,7 @@ We can use this pipeline to explore whether merged UMIs originate from the same 
 
 Please download the data from [here](https://github.com/2003100127/mcverse/releases/download/mclumi-data/mclumi-data.zip). Then, please decompress it and specify where it is located under attribute `work_dir` in the `params.yaml` file which has the following form.
 
-```{code} python
+```{code} yaml
 work_dir: path/to/mclumi-data/
 
 trimmed:
@@ -190,7 +190,7 @@ Since the method directional is used, the results include:
 `directional_node_repr.json`
 
 
-```markdown
+```{code} shell
 01/05/2025 21:54:04 logger: =========>the neighbor: 223
 01/05/2025 21:54:04 logger: =========>the neighbor: 1568
 01/05/2025 21:54:04 logger: =========>the neighbor: 2856

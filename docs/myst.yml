@@ -10,11 +10,11 @@ project:
 site:
   template: book-theme
   options:
-    favicon: img/mcverse-logo.jpg
-    logo: img/mcverse-logo.jpg
+    favicon: img/mcverse-logo.png
+    logo: img/mcverse-logo.png
     twitter: https://x.com/Jianfeng_Sunny
-    hide_toc: true
-    outline_maxdepth: 2
+    outline_maxdepth: 3
+  #    hide_toc: true
 #  nav:
 #    - title: Home
 #      url: /index
@@ -22,10 +22,7 @@ site:
 #      children:
 #        - title: Developer
 #          url: /developer
-#    - title: Reproducibility
-#      children:
-#        - title: UMIche
-#          url: /umiche
+
   nav:
     - title: Home
       url: /mcverse/index
@@ -33,7 +30,3 @@ site:
       children:
         - title: Developer
           url: /mcverse/developer
-    - title: Reproducibility
-      children:
-        - title: UMIche
-          url: /mcverse/umiche
