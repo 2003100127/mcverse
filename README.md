@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/2003100127/mcverse/blob/main/docs/img/mcverse-logo.png?raw=true" width="220" height="88">
+    <img src="https://github.com/2003100127/mcverse/blob/main/docs/img/mcverse-logo.png?raw=true" width="228" height="88">
     <br>
 </h1>
 
