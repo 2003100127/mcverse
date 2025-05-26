@@ -1,4 +1,4 @@
-# Anchor-placed bead
+# Anchor-placed bead design
 
 We now provide how to replicate a simulation analysis using **tresor**, a tool for simulating sequencing reads, for a previously published method for alleviating errors during bead synthesis. The goal is to investigate how modifications to beads used in single-cell sequencing can improve the recognition of unique molecular identifiers (UMIs) and cell barcodes in long-read sequencing data.
 
