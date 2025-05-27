@@ -44,6 +44,13 @@ Next, we need to define several simulation scenarios, all related to sequencing 
 
 ### 2.2 Basic settings
 
+Import two libraries, Tresor and UMIche.
+
+```{code} python
+import tresor as ts
+import umiche as uc
+```
+
 For each simulation scenario, we generate sequencing reads (beads) under 17 different error rates (`criteria`).
 
 ```{code} python
