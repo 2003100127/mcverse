@@ -2,6 +2,8 @@
 
 We now provide how to replicate a simulation analysis using **tresor**, a tool for simulating sequencing reads, for a previously published method for alleviating errors during bead synthesis. The goal is to investigate how modifications to beads used in single-cell sequencing can improve the recognition of unique molecular identifiers (UMIs) and cell barcodes in long-read sequencing data.
 
+Please read [this tutorial](https://2003100127.github.io/tresor/tutorial/2.%20Bead%20synthesis/2.4%20Anchor-simulation/) for some technical bases.
+
 :::{tip} Background
 In a standard experimental setup, a bead is typically synthesied with **_i_**) a primer, **_ii_**) a cell barcode, **_iii_**) a UMI, and finally **_iv_**) a polyT tail (from left to right). The polyT tail hybridises with the polyA tail of mRNA molecules, allowing the mRNA to be captured and sequenced.
 

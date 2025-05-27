@@ -2,6 +2,8 @@
 
 In this tutorial, we apply **Tresor** to investigate how errors introduced during bead synthesis propagate through PCR amplification and ultimately affect reads in the final sequencing pool.
 
+If you want to find some technical details about how to make it logically, please refer to [here](https://2003100127.github.io/tresor/tutorial/2.%20Bead%20synthesis/2.3%20Error-propagation/).
+
 ## Problem
 Upon reading [the Tresor article](https://doi.org/10.1101/2025.03.15.643015), some may be curious about a particular statement we included in the **_Introduction_** section:
 
